@@ -1,0 +1,1 @@
+. .. .bash_history .bash_logout .bashrc .cache .config .gnupg .local .profile task1.sh Видео Документы Загрузки Изображения Музыка Общедоступные Рабочий стол Шаблоны
